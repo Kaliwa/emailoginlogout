@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148932604061",
+    "project_id": "authflutter-e1097",
+    "storage_bucket": "authflutter-e1097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148932604061:android:01a8d70a2d9c9956cbe474",
+        "android_client_info": {
+          "package_name": "com.example.emailoginlogout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148932604061-ut0r2cpg420uqf3litmnglamogqqfcoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsl1eY4Y4SxAtHUTpDYk7nEjSq2Gc96Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148932604061-ut0r2cpg420uqf3litmnglamogqqfcoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
